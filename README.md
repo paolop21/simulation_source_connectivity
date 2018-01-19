@@ -47,7 +47,7 @@ MATLAB script that allows to run the main function “simulation_source_connecti
 
 3) **brain_maps_FPR**
 
-MATLAB script for the visualization of the simulations results in terms of FPR on a 3-D head model.
+MATLAB script for the visualization of the simulations results in terms of FPR on a 3-D head model. To run this code it is necessary to add ONLY the folder "plotting" of the FieldTrip toolbox to the set path (free download at http://www.fieldtriptoolbox.org/download)
 
 4) **movie_rotating_FPR**
 
